@@ -5,3 +5,9 @@ A curated list of awesome ESP8266/32 projects and code
 > Both the ESP8266 and ESP32 are low-cost Wi-Fi microchips with full TCP/IP stack and microcontroller capabilities produced by Shanghai-based Chinese manufacturer, Espressif Systems.
 
 This is a curated list of awesome projects and code made with both ESP's according to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+
+## Contents
+- [Firmware](#firmware)
+- [Tools](#tools)
+- [Projects](#projects)
+- [Resources](#resources)
