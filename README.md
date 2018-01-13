@@ -10,6 +10,12 @@ This is a curated list of awesome projects and code made with both ESP's accordi
 - [Firmware](#firmware)
 - [Tools](#tools)
 - [Projects](#projects)
+  - [Smart Home](#smart-home)
+  - [Widgets](#widgets)
+  - [Climatology](#climatology)
+  - [InfoSec](#infosec)
+  - [Plants](#plants)
+  - [Other](#other)
 - [Resources](#resources)
 - [Libraries](#libraries)
 
