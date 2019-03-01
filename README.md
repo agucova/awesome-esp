@@ -33,6 +33,7 @@ This is a curated list of awesome projects and code made with both ESP's accordi
 - [NodeLUA](https://nodelua.org/) - Another lua-based firmware for the ESP8266.
 - [RT-Thread](https://github.com/RT-Thread/rt-thread) - Chinese open source firmware available for the ESP32.
 - [ESP3D](https://github.com/luc-github/ESP3D) - Firmware for managing and bridging 3D Printers remotely.
+- [Zerynth](https://www.zerynth.com/zerynth-supported-devices/) - Zerynth Virtual Machine (VM) is a multithreaded Real-Time OS that provides real hardware independence, in just 60-80kB of Flash and 3-5kB of RAM.
 
 ## Tools
 - [ESP Flash Tool](http://espressif.com/en/support/download/other-tools) - The vanilla firmware flasher for both ESP's.
@@ -46,6 +47,8 @@ This is a curated list of awesome projects and code made with both ESP's accordi
 - [LuaNode](https://github.com/Nicholas3388/LuaNode) - A lua-only sdk for 32/8266.
 - [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) - An Arduino plugin for filesystem uploads in the 8266.
 - [PlatformIO](https://github.com/platformio/platformio-core) - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
+- [Zerynth Studio](https://www.zerynth.com/zerynth-studio/) - Zerynth Studio is a powerful IDE for embedded programming in Python that enables the IoT.
+
 ## Libraries
 - [Homie8266](https://github.com/marvinroger/homie-esp8266) - Framework implementation of the Homie protocol for the 8266.
 - [ESP-Dash](https://github.com/ayushsharma82/ESP-DASH) - Beautiful framework for creating remote dashboards in the 8266.
