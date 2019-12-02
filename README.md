@@ -1,4 +1,5 @@
-# Awesome ESP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome ESP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Build Status](https://travis-ci.org/agucova/awesome-esp.svg)](https://travis-ci.org/agucova-awesome-esp)
+
 A curated list of awesome ESP8266/32 projects and code
 
 <a href="http://espressif.com/en/products/hardware/esp8266ex/overview"><img src="https://cdn.instructables.com/FTQ/HQNH/J4OFNC31/FTQHQNHJ4OFNC31.LARGE.jpg" alt="ESP8266" align="left" style="margin-right: 25px" height=150></a>
