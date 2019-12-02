@@ -1,4 +1,4 @@
-# Awesome ESP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Build Status](https://travis-ci.org/agucova/awesome-esp.svg)](https://travis-ci.org/agucova/awesome-esp)
+# Awesome ESP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/agucova/awesome-esp.svg)](https://travis-ci.org/agucova/awesome-esp)
 
 A curated list of awesome ESP8266/32 projects and code
 
