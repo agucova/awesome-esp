@@ -32,8 +32,6 @@ This is a curated list of awesome projects and code made with both ESP's accordi
 - [MongooseOS](https://mongoose-os.com/) - An IoT specific firmware, with both C and JS. Available for the ESP32/8266.
 - [DeviceHive](https://devicehive.com/) - A firmware made as a client for DeviceHive's IoT data platform, only for the 8266.
 - [RT-Thread](https://github.com/RT-Thread/rt-thread) - Chinese open source firmware available for the ESP32.
-- [ESP3D](https://github.com/luc-github/ESP3D) - Firmware for managing and bridging 3D Printers remotely.
-
 ## Tools
 - [ESP Flash Tool](http://espressif.com/en/support/download/other-tools) - The vanilla firmware flasher for both ESP's.
 - [Arduino Core/8266](https://github.com/esp8266/arduino) - The Arduino core for the ESP8266.
@@ -60,5 +58,5 @@ This is a curated list of awesome projects and code made with both ESP's accordi
 - [ESP-HomeKit](https://github.com/maximkulkin/esp-homekit) - Homekit implementation for 8266 on RTOS.
 - [ESPHelper](https://github.com/ItKindaWorks/ESPHelper) - MQTT and Wi-fi automation-oriented library for the 8266.
 - [ESPHelper/32](https://github.com/ItKindaWorks/ESPHelper32) - Port of the ESPHelper library for the 32.
-- [https://github.com/ekstrand/ESP8266wifi](https://github.com/ekstrand/ESP8266wifi) - Simple Arduino Wifi library for the 8266.
+- [ESP8266Wifi](https://github.com/ekstrand/ESP8266wifi) - Simple Arduino Wifi library for the 8266.
 - [WiFiESP](https://github.com/bportaluri/WiFiEsp) - Arduino library for Wifi management, client/server for 8266 board.
