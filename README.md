@@ -24,14 +24,13 @@ This is a curated list of awesome projects and code made with both ESP's accordi
 ## Firmware
 - [Espressif AT](http://bbs.espressif.com/) - The default vanilla firmware for the ESP8266.
 - [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) - An eLua-based firmware for the ESP8266.
-- [ESPBasic](https://www.esp8266basic.com/) - A BASIC firmware for easy and wireless programming, ready for the 8266.
+- [ESPBasic](http://www.esp8266basic.com/) - A BASIC firmware for easy and wireless programming, ready for the 8266.
 - [MicroPython](https://github.com/micropython/micropython/) - An implemention of Python3 for the ESP8266.
 - [MicroPython/32](https://github.com/micropython/micropython-esp32) - A MicroPython port for the ESP32.
 - [ESP32](https://github.com/luc-github/ESP3D) - An experimental firmware for 3D Printers, both the ESP32 and 8266.
 - [Frankenstein](https://github.com/nekromant/esp8266-frankenstein) - A quick and dirty firmware with cool features for the ESP8266.
 - [MongooseOS](https://mongoose-os.com/) - An IoT specific firmware, with both C and JS. Available for the ESP32/8266.
 - [DeviceHive](https://devicehive.com/) - A firmware made as a client for DeviceHive's IoT data platform, only for the 8266.
-- [NodeLUA](https://nodelua.org/) - Another lua-based firmware for the ESP8266.
 - [RT-Thread](https://github.com/RT-Thread/rt-thread) - Chinese open source firmware available for the ESP32.
 - [ESP3D](https://github.com/luc-github/ESP3D) - Firmware for managing and bridging 3D Printers remotely.
 
