@@ -69,7 +69,6 @@ This is a curated list of awesome projects and code made with both ESP's accordi
 - [DroneBridge](https://github.com/DroneBridge/ESP32) - An implementation of DroneBridge, a signal link for drones and UAV's on the ESP32.
 ## Libraries
 - [Wasm3](https://github.com/wasm3/wasm3) - A lightning fast WebAssembly interpreter designed for embedded devices, compatible with both ESP's.
-
 - [Homie8266](https://github.com/marvinroger/homie-esp8266) - Framework implementation of the Homie protocol for the 8266.
 - [ESP-Dash](https://github.com/ayushsharma82/ESP-DASH) - Beautiful and fast framework for creating remote dashboards in the 8266/32. No internet required.
 - [ESP_mqtt](https://github.com/tuanpmt/esp_mqtt) - MQTT helper library for the ESP8266.
