@@ -8,6 +8,8 @@ A curated list of awesome ESP8266/32 projects and code
 
 This is a curated list of awesome projects and code made with both ESP's according to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
+<!--lint disable awesome-list-item-->
+<!--lint disable no-repeat-punctuation-->
 ## Contents
 - [Firmware](#firmware)
 - [Tools](#tools)
