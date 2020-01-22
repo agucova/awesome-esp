@@ -1,6 +1,6 @@
 # Awesome ESP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code-of-conduct.md)
 
-A curated list of awesome ESP8266/32 projects and code
+A curated list of awesome ESP8266/32 projects and code.
 
 <a href="http://espressif.com/en/products/hardware/esp8266ex/overview"><img src="https://cdn.instructables.com/FTQ/HQNH/J4OFNC31/FTQHQNHJ4OFNC31.LARGE.jpg" alt="ESP8266" align="left" style="margin-right: 25px" height=150></a>
 <a href="http://espressif.com/en/products/hardware/esp32/overview"><img src="https://pbs.twimg.com/profile_images/863510403120222208/rjVOiTe3.jpg" alt="ESP32" align="left" style="margin-right: 25px" height=150></a>
