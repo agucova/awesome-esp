@@ -13,6 +13,7 @@ A curated list of awesome ESP8266/32 projects and code.
 > <br/><br/> 
 
 <!--lint disable no-repeat-punctuation-->
+<!--lint disable remark-lint:double-link-->
 ## Contents
 - [Firmware](#firmware)
 - [Tools](#tools)
