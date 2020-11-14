@@ -57,6 +57,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [DoorsignEPD](https://github.com/jamct/DoorsignEPD) - A smart... doorsign with an E-Paper display using the ESP32.
 - [EPaperWeatherDisplay](https://github.com/henri98/esp32-e-paper-weatherdisplay) - A very cute e-ink weather display using the ESP32.
 - [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) - A full-featured home farming automation software for the ESP32.
+- [CanAirIO](https://github.com/kike-canaries/canairio_firmware) - Citizen science project that using mobile and fixed stations to measure air quality with ESP32 and Phones. 
 
 ### InfoSec
 - [ESP32-BLECollector](https://github.com/tobozo/ESP32-BLECollector) - A wardriving device which displays BLE devices and collects data from them, all in a nice screen interface.
@@ -108,4 +109,5 @@ A curated list of awesome ESP8266/32 projects and code.
 - [Esp32SSHClient](https://github.com/J-Rios/Arduino-esp32sshclient) - A library that implements a SSH client in the ESP32.
 - [painlessMesh](https://github.com/gmag11/painlessMesh) - A library that takes care of the particulars of creating a simple mesh network using ESP8266 and ESP32 hardware.
 - [WifiEspNow](https://github.com/yoursunny/WifiEspNow) - Arduino library for [ESP-NOW](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/network/esp_now.html), a connectionless WiFi communication protocol defined by [Espressif](https://github.com/espressif).
+- [CanAirIO sensorlib](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) - ESP32/8266 library with auto-configuration of multiple PM2.5 dust sensors.
 
