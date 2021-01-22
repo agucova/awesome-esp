@@ -75,7 +75,7 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ### LoRa
 
-- [Meshtastic](https://www.meshtastic.org/) Meshtastic™ is a project use ESP32 LoRa boards that lets long battery life, secure, mesh GPS communicator. 
+- [Meshtastic](https://www.meshtastic.org/) is a project that uses ESP32 LoRA boards as secure, long battery life, mesh GPS communicators.
 - [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards
 - [Disaster Radio](https://disaster.radio/) a disaster-resilient communications network powered by the sun
 
