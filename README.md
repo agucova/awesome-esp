@@ -11,7 +11,7 @@ A curated list of awesome ESP8266/32 projects and code.
 > <br/>
 > See [Contributing](contributing.md) for information on how to contribute to this list.
 > <br/><br/>
-
+---
 <!--lint disable no-repeat-punctuation-->
 <!--lint disable remark-lint-double-link-->
 ## Contents
