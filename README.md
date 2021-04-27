@@ -80,6 +80,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [Disaster Radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun
 
 ### Others
+- [Open SmartWatch](https://open-smartwatch.github.io/) - A FOSS smartwatch with GPS, an inertial unit and an extremely cool 3D-printed case.
 - [SoftRF](https://github.com/lyusupov/SoftRF) - A DIY aviation proximity awareness system that can be used in UAV projects.
 - [Retro ESP32](https://github.com/retro-esp32/RetroESP32) - An extremely cool launcher for the Odroid Go (with the ESP32), which allows emulating several retro consoles.
 - [PedalinoMini](https://github.com/alf45tar/PedalinoMini) - A wireless MIDI pedal controller for guitarists, built with the ESP32.
