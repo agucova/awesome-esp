@@ -21,6 +21,9 @@ A curated list of awesome ESP8266/32 projects and code.
   - [Smart Home and IoT](#smart-home-and-iot)
   - [InfoSec](#infosec)
   - [Biomedical](#biomedical)
+  - [LoRa](#lora)
+  - [Music and Audio](#music-and-audio)
+  - [Smartwatches](#smartwatches)
   - [Others](#others)
 - [Libraries](#libraries)
 
@@ -96,7 +99,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [Squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - Streaming audio receiver with multi-room sync, AirPlay, Bluetooth, hardware buttons, display and more.
 - [ThingPulse esp8266-spotify-remote](https://github.com/ThingPulse/esp8266-spotify-remote) - Control your Spotify player from a ESP8266 with color touch display.
 
-### Smartwatch
+### Smartwatches
 
 - [mutantW_V1](https://mutantcybernetics.com/mutantW_V1.html) - An ESP32 based open source smartwatch with 1.7 inch display, WiFi, Bluetooth, NeoPixel and vibration.
 - [Open SmartWatch](https://open-smartwatch.github.io/) - A FOSS smartwatch with GPS, an inertial unit and an extremely cool 3D-printed case.
