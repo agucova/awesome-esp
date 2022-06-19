@@ -1,18 +1,12 @@
-name: awesome-lint
+name: CI
 on:
-  push:
-    branches: [ master ]
   pull_request:
-    branches: [ master ]
-
+    branches: [main]
 jobs:
-  awesome-lint:
-    name: "lint: awesome-lint"
+  Awesome_Lint:
     runs-on: ubuntu-latest
     steps:
-      - name: "checkout repo"
-        uses: actions/checkout@v2.0.0
+      - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: Test awesome-lint with custom file path
-        uses: jthegedus/github-action-awesome-lint@a800bb84d5a4adbe4cb776da152f678959de1da4
+      - run: npx awesome-lint
