@@ -1,7 +1,3 @@
-<!--lint disable awesome-list-item-->
-<!--lint disable awesome-toc-->
-<!--lint disable no-blockquote-without-marker-->
-
 # Awesome ESP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code-of-conduct.md)
 A curated list of awesome ESP8266/32 projects and code.
 
@@ -12,8 +8,7 @@ A curated list of awesome ESP8266/32 projects and code.
 > See [Contributing](contributing.md) for information on how to contribute to this list.
 > <br/><br/>
 ---
-<!--lint disable no-repeat-punctuation-->
-<!--lint disable remark-lint-double-link-->
+
 ## Contents
 - [Firmware](#firmware)
 - [Tools](#tools)
@@ -37,7 +32,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [MongooseOS](https://github.com/cesanta/mongoose-os) - An IoT specific firmware, with both C and JS. Available for the ESP32/8266.
 - [DeviceHive](https://devicehive.com/) - A firmware made as a client for DeviceHive's IoT data platform, only for the 8266.
 - [RT-Thread](https://github.com/RT-Thread/rt-thread) - Chinese open source firmware available for the ESP32.
-- [Sming Framework](https://github.com/SmingHub/Sming) - Superb C/C++ IoT Framework with support for ESP8266 and ESP32.  
+- [Sming Framework](https://github.com/SmingHub/Sming) - Superb C/C++ IoT Framework with support for ESP8266 and ESP32.
 
 ## Tools
 - [ESP Flash Tool](http://espressif.com/en/support/download/other-tools) - The vanilla firmware flasher for both ESP's.
@@ -47,9 +42,9 @@ A curated list of awesome ESP8266/32 projects and code.
 - [ESP-Open-SDK](https://github.com/pfalcon/esp-open-sdk) - An open SDK for the ESP8266.
 - [ESPTool-ck](https://github.com/igrr/esptool-ck) - A CLI tool for flashing in the ESP8266.
 - [ESPTool-gui](https://github.com/Rodmg/esptool-gui) - A flashing GUI tool based on ESPTool-ck.
-- [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) - NodeMCU's official flashing tool for its OS.
 - [LuaNode](https://github.com/Nicholas3388/LuaNode) - A lua-only SDK for 32/8266.
 - [Tuya-Convert](https://github.com/ct-Open-Source/tuya-convert) - A Wi-Fi firmware flasher ESP8266 that has been pre-loaded with Tuya firmware.
+- [NodeMCU Flasher](https://github.com/nodemcu/nodemcu-flasher) - The official flashing tool for the NodeMCU OS.
 - [Tasmotizer](https://github.com/tasmota/tasmotizer) - A graphical flashing tool for Tasmota firmware. Can manage Wi-Fi & MQTT settings, modules & templates.
 - [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) - An Arduino plugin for filesystem uploads in the 8266.
 - [PlatformIO](https://github.com/platformio/platformio-core) - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
@@ -61,7 +56,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [Tasmota](https://tasmota.github.io/docs/) - An alternative firmware for Sonoff & other ESP8266/ESP32 devices. Includes a large collection of sensor drivers & integrates with [Home Assistant](https://www.home-assistant.io/) natively or via MQTT.
 - [ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easily turn ESP modules into multifunction sensor devices for home automation systems.
 - [Sonoff-Homekit](https://github.com/Gruppio/Sonoff-Homekit) - An alternative firmware for Sonoff devices (and other 8266 devices) which allows control through Apple's Homekit.
-- [DoorsignEPD](https://github.com/jamct/DoorsignEPD) - A smart... doorsign with an E-Paper display using the ESP32.
+- [DoorsignEPD](https://github.com/jamct/DoorsignEPD) - A smart doorsign with an E-Paper display using the ESP32.
 - [EPaperWeatherDisplay](https://github.com/henri98/esp32-e-paper-weatherdisplay) - A very cute e-ink weather display using the ESP32.
 - [HomePoint](https://github.com/sieren/Homepoint) - Control MQTT/HomeKit smart home devices from an ESP32-powered screen.
 - [openHASP](https://www.openhasp.com/) - Control your home automation devices from a customizable touchscreen UI connected via MQTT.
@@ -86,8 +81,8 @@ A curated list of awesome ESP8266/32 projects and code.
 ### LoRa
 
 - [Meshtastic](https://www.meshtastic.org/) - ESP32 LoRA boards as secure, long battery life, mesh GPS communicators.
-- [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards
-- [Disaster Radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun
+- [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) - Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards.
+- [Disaster Radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun.
 
 ### Music and Audio
 
