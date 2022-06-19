@@ -1,7 +1,9 @@
 name: CI
 on:
+  workflow_call:
   pull_request:
     branches: [main]
+
 jobs:
   Awesome_Lint:
     runs-on: ubuntu-latest
