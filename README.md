@@ -62,6 +62,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [openHASP](https://www.openhasp.com/) - Control your home automation devices from a customizable touchscreen UI connected via MQTT.
 - [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) - A full-featured home farming automation software for the ESP32.
 - [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - Citizen science project that uses mobile and fixed stations to measure air quality with ESP32 and smartphones.
+- [Ai-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Monitor old power and water meter with OCR connected via MQTT.
 
 ### InfoSec
 - [ESP32-BLECollector](https://github.com/tobozo/ESP32-BLECollector) - A wardriving device which displays BLE devices and collects data from them, all in a nice screen interface.
@@ -110,6 +111,8 @@ A curated list of awesome ESP8266/32 projects and code.
 - [SmartSpin2k](https://github.com/doudar/SmartSpin2k) - Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.
 - [WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.
 - [WLED](https://kno.wled.ge/) - Control many types of RGB(W) LED strips with an ESP8266 or ESP32 over WiFi.
+- [EspWifiRepeater/8266](https://github.com/martin-ger/esp_wifi_repeater) - Wifi repeater (actually a NAT router) for the ESP8266 and ESP8285
+- [EspWifiRepeater/32](https://github.com/martin-ger/esp32_nat_router) - Wifi repeater (actually a NAT router) for the ESP32 (smaller feature set than the ESP8266 variant)
 
 ## Libraries
 - [Wasm3](https://github.com/wasm3/wasm3) - A lightning fast WebAssembly interpreter designed for embedded devices, compatible with both ESP's.
