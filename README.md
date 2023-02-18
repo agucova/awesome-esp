@@ -147,3 +147,4 @@ A curated list of awesome ESP8266/32 projects and code.
 - [CanAirIO SensorLib](https://github.com/kike-canaries/canairio_sensorlib#canairio-air-quality-sensors-library) - ESP32/8266 library with auto-configuration of multiple PM2.5, CO2 and environment sensors.
 - [Dhyara](https://github.com/neel/dhyara) - A C/C++ library for making a Mobile Ad hoc Network (MANET) using ESP Now.
 - [LedFx](https://github.com/LedFx/LedFx) - A library for using audio input to create realtime light shows. LedFx can control multiple devices and works great with cheap ESP8266 nodes.
+- [WireGuard-ESP32-Arduino](https://github.com/ciniml/WireGuard-ESP32-Arduino) - WireGuard VPN implementation for ESP32/8266/Arduino.
