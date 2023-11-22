@@ -26,6 +26,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [Espressif AT](http://bbs.espressif.com/) - The default vanilla firmware for the ESP8266.
 - [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) - An eLua-based firmware for the ESP8266.
 - [ESPBasic](http://www.esp8266basic.com/) - A BASIC firmware for easy and wireless programming, ready for the 8266.
+- [esp-rs](https://github.com/esp-rs) - Organization home to a number of community projects enabling the use of the Rust programming language on various SoCs and modules produced by Espressif Systems.
 - [MicroPython](https://github.com/micropython/micropython/) - An implemention of Python3 for the ESP8266 and 32.
 - [ESP3D](https://github.com/luc-github/ESP3D) - An experimental firmware for 3D Printers, both the ESP32 and 8266.
 - [Frankenstein](https://github.com/nekromant/esp8266-frankenstein) - A quick and dirty firmware with cool features for the ESP8266.
@@ -36,6 +37,8 @@ A curated list of awesome ESP8266/32 projects and code.
 
 ## Tools
 - [ESP Flash Tool](http://espressif.com/en/support/download/other-tools) - The vanilla firmware flasher for both ESP's.
+- [Espflash](https://github.com/esp-rs/espflash) - Serial flasher utility for Espressif SoCs and modules written in Rust.
+- [Espup](https://github.com/esp-rs/espup) - Tool for installing and maintaining Espressif Rust ecosystem.
 - [Arduino Core/8266](https://github.com/esp8266/arduino) - The Arduino core for the ESP8266.
 - [Arduino Core/32](https://github.com/espressif/arduino-esp32) - The other Arduino core for the ESP32.
 - [ESPTool](https://github.com/espressif/esptool) - Espressif's command line tool for bootloader comms in both ESP's.
