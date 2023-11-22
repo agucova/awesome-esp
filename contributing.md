@@ -7,7 +7,7 @@ project you agree to abide by its terms.
 ---
 
 Ensure your pull request adheres to the following guidelines:
-- Make sure you contribution is really ESP8266/ESP32 related. It doesn't have to be a hardware project, but it can't be just a general purpose microcontroller tool, by example.
+- Make sure your contribution is really ESP8266/ESP32 related. It doesn't have to be a hardware project, but it can't be just a general purpose microcontroller tool, by example.
 - Make sure the links are working and if possible, HTTPS Enabled (you can use the Travis build).
 - Avoid redirects if possible.
 
