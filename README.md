@@ -106,6 +106,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [Retro ESP32](https://github.com/retro-esp32/RetroESP32) - An extremely cool launcher for the Odroid Go (with the ESP32), which allows emulating several retro consoles.
 - [DroneBridge](https://github.com/DroneBridge/ESP32) - An implementation of DroneBridge, a signal link for drones and UAV's on the ESP32.
 - [E-TKT](https://github.com/andreisperid/E-TKT) - An ESP32 powered DIY label maker that mixes both old fashioned and contemporary technology.
+- [ESP32-GPS](https://github.com/mrichar1/esp32-gps) - ESP32 GPS device controller, with support for USB Serial, Bluetooth, RTK Corrections, NTRIP Caster/Server/Client and ESP-Now forwarding. 
 - [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) - Open source touch macropad and stream control deck with built-in web configurator.
 - [SmartSpin2k](https://github.com/doudar/SmartSpin2k) - Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.
 - [WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.
