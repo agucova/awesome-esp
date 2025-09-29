@@ -111,6 +111,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.
 - [WLED](https://kno.wled.ge/) - Control many types of RGB(W) LED strips with an ESP8266 or ESP32 over WiFi.
 - [VMflow.xyz](https://github.com/nodestark/mdb-esp32-cashless) – Open source implementation of MDB protocol for vending machines using ESP32. Supports Bluetooth, MQTT, and Supabase integration.
+- [ESP32 Running Linux](https://github.com/nodestark/esp32-running-linux) – RISC-V emulator running a minimal Linux environment on ESP32.
 
 ## Libraries
 - [Wasm3](https://github.com/wasm3/wasm3) - A lightning fast WebAssembly interpreter designed for embedded devices, compatible with both ESP's.
