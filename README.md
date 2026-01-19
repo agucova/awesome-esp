@@ -50,6 +50,12 @@ A curated list of awesome ESP8266/32 projects and code.
 - [PlatformIO](https://github.com/platformio/platformio-core) - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
 
 ## Projects
+### AI 
+- [ElatoAI](https://github.com/akdeb/ElatoAI) - Realtime Multimodal AI models on Arduino ESP32
+- [Xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot
+- [esp-dl](https://github.com/espressif/esp-dl) - Espressif deep-learning library for AI applications
+
+
 ### Smart Home and IoT
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - An implementation of a multiprotocol MQTT gateway for both ESP's among other devices.
 - [ESPHome](https://esphome.io/) - A full-featured system for controlling ESP's through simple yet powerful configuration files and Home Automation systems.
