@@ -53,6 +53,7 @@ A curated list of awesome ESP8266/32 projects and code.
 ### Smart Home and IoT
 - [OpenMQTTGateway](https://github.com/1technophile/OpenMQTTGateway) - An implementation of a multiprotocol MQTT gateway for both ESP's among other devices.
 - [ESPHome](https://esphome.io/) - A full-featured system for controlling ESP's through simple yet powerful configuration files and Home Automation systems.
+- [HomeMaster](https://www.home-master.eu/) - An open-source modular DIN-rail smart home platform built on ESP32 with MiniPLC and MicroPLC controllers. All modules run ESPHome firmware with native Home Assistant integration.
 - [Tasmota](https://tasmota.github.io/docs/) - An alternative firmware for Sonoff & other ESP8266/ESP32 devices. Includes a large collection of sensor drivers & integrates with [Home Assistant](https://www.home-assistant.io/) natively or via MQTT.
 - [ESPEasy](https://github.com/letscontrolit/ESPEasy) - Easily turn ESP modules into multifunction sensor devices for home automation systems.
 - [Sonoff-Homekit](https://github.com/Gruppio/Sonoff-Homekit) - An alternative firmware for Sonoff devices (and other 8266 devices) which allows control through Apple's Homekit.
