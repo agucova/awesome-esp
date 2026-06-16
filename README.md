@@ -61,6 +61,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [HomePoint](https://github.com/sieren/Homepoint) - Control MQTT/HomeKit smart home devices from an ESP32-powered screen.
 - [openHASP](https://www.openhasp.com/) - Control your home automation devices from a customizable touchscreen UI connected via MQTT.
 - [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) - A full-featured home farming automation software for the ESP32.
+- [Smart Plantation](https://github.com/sushantkumarkhobian-lab/Smart-Plantation) - ESP32-based smart agriculture platform featuring real-time environmental monitoring, automated irrigation, machine learning crop analytics, pest detection, and secure sensor data logging.
 - [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - Citizen science project that uses mobile and fixed stations to measure air quality with ESP32 and smartphones.
 
 ### InfoSec
