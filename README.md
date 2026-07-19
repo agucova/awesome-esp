@@ -62,6 +62,8 @@ A curated list of awesome ESP8266/32 projects and code.
 - [openHASP](https://www.openhasp.com/) - Control your home automation devices from a customizable touchscreen UI connected via MQTT.
 - [SuperGreenOS](https://github.com/supergreenlab/SuperGreenOS) - A full-featured home farming automation software for the ESP32.
 - [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - Citizen science project that uses mobile and fixed stations to measure air quality with ESP32 and smartphones.
+- [ZHAC](https://github.com/zhac-project/zhac-platform) - A dual-chip ESP32-P4 + ESP32-S3 Zigbee home automation controller with a Lua rule engine, simple rules, local web UI, and MQTT gateway.
+
 
 ### InfoSec
 - [ESP32-BLECollector](https://github.com/tobozo/ESP32-BLECollector) - A wardriving device which displays BLE devices and collects data from them, all in a nice screen interface.
