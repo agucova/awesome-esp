@@ -73,6 +73,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [WiFiDuck](https://github.com/spacehuhn/WiFiDuck) - A wireless-enabled keystroke injector, analogous, but even more awesome than the Rubber Ducky.
 - [ESP8266 Beacon Spam](https://github.com/spacehuhn/esp8266_beaconSpam) - Want to confuse people? This device creates hundreds of fake WiFi networks.
 - [DeauthDetector](https://github.com/spacehuhn/DeauthDetector) - A small device that shines a light if it detects a WiFi deauth attack. Made by the same guy as the last six projects.
+- [vkey](https://github.com/vaulttec-dev/vaulttec-key) - A USB hardware key on an ESP32-C6 holding TOTP secrets, passwords and whole project .env files under AES-256-GCM, keyed by Argon2id over a PIN and bound to an eFuse HMAC key, with Secure Boot v2 and a button press for every secret. Bare-metal Rust, no ESP-IDF. No HID on this chip, so no FIDO and nothing against phishing.
 
 ### Biomedical
 - [HeartyPatch](https://heartypatch.protocentral.com/) - A wearable BLE and WiFi connected ECG-HR patch which uses the ESP32.
