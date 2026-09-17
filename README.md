@@ -82,7 +82,7 @@ A curated list of awesome ESP8266/32 projects and code.
 
 - [Meshtastic](https://www.meshtastic.org/) - ESP32 LoRA boards as secure, long battery life, mesh GPS communicators.
 - [ESP32-Paxcounter](https://github.com/cyberman54/ESP32-Paxcounter#esp32-paxcounter) - Wifi & Bluetooth driven, LoRaWAN enabled, battery powered mini Paxcounter built on cheap ESP32 LoRa IoT boards.
-- [Disaster Radio](https://disaster.radio/) - A disaster-resilient communications network powered by the sun.
+- [Disaster Radio](https://github.com/sudomesh/disaster-radio) - A disaster-resilient communications network powered by the sun.
 
 ### Music and Audio
 
