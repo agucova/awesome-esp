@@ -108,6 +108,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [E-TKT](https://github.com/andreisperid/E-TKT) - An ESP32 powered DIY label maker that mixes both old fashioned and contemporary technology.
 - [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) - Open source touch macropad and stream control deck with built-in web configurator.
 - [SmartSpin2k](https://github.com/doudar/SmartSpin2k) - Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.
+- [The Badge](https://github.com/curisama/The-Badge) - Wearable round AMOLED badge that drives a computer over Bluetooth HID as a touchpad and IMU air mouse, with a voice recorder that mounts as a USB drive, a clock with timer and alarm, and accelerometer-driven fidget toys.
 - [WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.
 - [WLED](https://kno.wled.ge/) - Control many types of RGB(W) LED strips with an ESP8266 or ESP32 over WiFi.
 
