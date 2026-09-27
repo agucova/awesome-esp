@@ -109,6 +109,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [FreeTouchDeck](https://github.com/DustinWatts/FreeTouchDeck) - Open source touch macropad and stream control deck with built-in web configurator.
 - [SmartSpin2k](https://github.com/doudar/SmartSpin2k) - Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.
 - [WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.
+- [AMS-X](https://github.com/Amsozzer1/AMS-Firmware) - ESP32 firmware for an open multi-material filament system for Bambu Lab printers, driving a cluster of TMC2209 spool modules over MQTT.
 - [WLED](https://kno.wled.ge/) - Control many types of RGB(W) LED strips with an ESP8266 or ESP32 over WiFi.
 
 ## Libraries
