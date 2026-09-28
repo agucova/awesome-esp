@@ -64,6 +64,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [CanAirIO](https://github.com/kike-canaries/canairio_firmware#canairio-firmware) - Citizen science project that uses mobile and fixed stations to measure air quality with ESP32 and smartphones.
 
 ### InfoSec
+- [esp32-ghost-node](https://github.com/numbpill3d/esp32-ghost-node) - WiFi probe + BLE tracker firmware, CSV over Serial.
 - [ESP32-BLECollector](https://github.com/tobozo/ESP32-BLECollector) - A wardriving device which displays BLE devices and collects data from them, all in a nice screen interface.
 - [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder) - An integrated suite of offensive and defensive tools for WiFi and Bluetooth.
 - [ArduinoPcap](https://github.com/spacehuhn/ArduinoPcap) - A library which allows generation of .pcap files with network traffic, for both ESP's.
