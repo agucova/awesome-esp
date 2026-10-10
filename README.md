@@ -48,6 +48,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [Tasmotizer](https://github.com/tasmota/tasmotizer) - A graphical flashing tool for Tasmota firmware. Can manage Wi-Fi & MQTT settings, modules & templates.
 - [Arduino FS Plugin](https://github.com/esp8266/arduino-esp8266fs-plugin) - An Arduino plugin for filesystem uploads in the 8266.
 - [PlatformIO](https://github.com/platformio/platformio-core) - Cross Platform IDE and Debugger that supports both the ESP32 and ESP8266.
+- [CircuitPilot](https://github.com/Abdelhayali/CircuitPilot) - Designs ESP32 boards from a description: real JLCPCB parts, schematic, autorouted PCB, Gerbers and a 3D-printed case, in the browser.
 
 ## Projects
 ### Smart Home and IoT
