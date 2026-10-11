@@ -38,6 +38,8 @@ A curated list of awesome ESP8266/32 projects and code.
 - [ESP Flash Tool](http://espressif.com/en/support/download/other-tools) - The vanilla firmware flasher for both ESP's.
 - [Arduino Core/8266](https://github.com/esp8266/arduino) - The Arduino core for the ESP8266.
 - [Arduino Core/32](https://github.com/espressif/arduino-esp32) - The other Arduino core for the ESP32.
+- [TinkerNews ESP32 Pinout](https://www.tinkernews.com/tools/esp32-pinout) - Colour-coded reference chart for every ESP32 DevKit pin, with boot-strapping and input-only pins marked.
+- [TinkerNews ESP32-C3 SuperMini Pinout](https://www.tinkernews.com/tools/esp32-c3-supermini-pinout) - Pinout chart for the ESP32-C3 SuperMini, including the reserved-at-boot pins and the antenna keep-out note.
 - [ESPTool](https://github.com/espressif/esptool) - Espressif's command line tool for bootloader comms in both ESP's.
 - [ESP-Open-SDK](https://github.com/pfalcon/esp-open-sdk) - An open SDK for the ESP8266.
 - [ESPTool-ck](https://github.com/igrr/esptool-ck) - A CLI tool for flashing in the ESP8266.
