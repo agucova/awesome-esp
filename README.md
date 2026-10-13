@@ -33,6 +33,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [DeviceHive](https://devicehive.com/) - A firmware made as a client for DeviceHive's IoT data platform, only for the 8266.
 - [RT-Thread](https://github.com/RT-Thread/rt-thread) - Chinese open source firmware available for the ESP32.
 - [Sming Framework](https://github.com/SmingHub/Sming) - Superb C/C++ IoT Framework with support for ESP8266 and ESP32.
+- [esp32-thinks](https://github.com/raullenchai/esp32-thinks) - A personal AI voice assistant on the ESP32: "Hi, ESP" wake word or push-to-talk, streaming spoken replies, and any OpenAI-compatible brain (STT, chat and TTS are independent endpoints you can mix). Built on muse-gadget-sdk for the SenseCAP Watcher.
 
 ## Tools
 - [ESP Flash Tool](http://espressif.com/en/support/download/other-tools) - The vanilla firmware flasher for both ESP's.
