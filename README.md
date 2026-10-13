@@ -25,6 +25,7 @@ A curated list of awesome ESP8266/32 projects and code.
 ## Firmware
 - [Espressif AT](http://bbs.espressif.com/) - The default vanilla firmware for the ESP8266.
 - [NodeMCU](https://github.com/nodemcu/nodemcu-firmware) - An eLua-based firmware for the ESP8266.
+- [OnlyClaws](https://github.com/shinjiyu/onlyclaws-esp) - Flash-once Lua runtime for ESP32-S3 (and RoArm-M2) that AI agents program over HTTP, with a self-hostable control plane.
 - [ESPBasic](http://www.esp8266basic.com/) - A BASIC firmware for easy and wireless programming, ready for the 8266.
 - [MicroPython](https://github.com/micropython/micropython/) - An implemention of Python3 for the ESP8266 and 32.
 - [ESP3D](https://github.com/luc-github/ESP3D) - An experimental firmware for 3D Printers, both the ESP32 and 8266.
