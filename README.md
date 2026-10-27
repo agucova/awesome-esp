@@ -110,6 +110,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [SmartSpin2k](https://github.com/doudar/SmartSpin2k) - Transform your spin bike into a smart trainer with automatic resistance knob control in fitness apps like Zwift.
 - [WirelessPrinting](https://github.com/probonopd/WirelessPrinting) - Print wirelessly from Cura, PrusaSlicer or Slic3r to your 3D printer connected to an ESP module.
 - [WLED](https://kno.wled.ge/) - Control many types of RGB(W) LED strips with an ESP8266 or ESP32 over WiFi.
+- [Vibe-a-Gochi](https://github.com/Developkings/vibe-a-gochi) - A desk pet on a 2.8" ESP32-S3 touch screen that shows what Claude Code is doing and lets you approve its tools, answer its questions and talk to it.
 
 ## Libraries
 - [Wasm3](https://github.com/wasm3/wasm3) - A lightning fast WebAssembly interpreter designed for embedded devices, compatible with both ESP's.
