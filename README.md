@@ -128,6 +128,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [UTFT-ESP](https://github.com/gnulabis/UTFT-ESP) - UTFT Support for the ESP32/8266.
 - [ESPAudio](https://github.com/earlephilhower/ESP8266Audio) - Library for playing a diverse range of audio formats in the ESP8266/ESP32.
 - [ESP32-audioI2S](https://github.com/schreibfaul1/ESP32-audioI2S) - Plays mp3, m4a and wav files from SD card or stream via I2S interface.
+- [RV565](https://github.com/elixpo/rv565) - Video playback on ST7789 SPI displays: 24 FPS with zero dropped frames on the ESP32-S3 by decoding on one core while the other drives the display via DMA. Arduino and ESP-IDF.
 - [AsyncTCP](https://github.com/me-no-dev/ESPAsyncTCP) - Asynchronous TCP Library for both the 8266 and the 32.
 - [ESP-HomeKit](https://github.com/maximkulkin/esp-homekit) - Homekit implementation for 8266 on RTOS.
 - [HomeSpan](https://github.com/HomeSpan/HomeSpan) - A robust and extremely easy-to-use Arduino library for creating your own ESP32-based HomeKit devices.
