@@ -33,6 +33,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [DeviceHive](https://devicehive.com/) - A firmware made as a client for DeviceHive's IoT data platform, only for the 8266.
 - [RT-Thread](https://github.com/RT-Thread/rt-thread) - Chinese open source firmware available for the ESP32.
 - [Sming Framework](https://github.com/SmingHub/Sming) - Superb C/C++ IoT Framework with support for ESP8266 and ESP32.
+- [OreoOS](https://github.com/elixpo/oreo) - A MicroPython-based operating system for an open-hardware ESP32-S3 conference badge, with an app SDK, app store, OTA updates and video playback.
 
 ## Tools
 - [ESP Flash Tool](http://espressif.com/en/support/download/other-tools) - The vanilla firmware flasher for both ESP's.
