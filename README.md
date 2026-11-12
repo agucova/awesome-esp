@@ -91,6 +91,7 @@ A curated list of awesome ESP8266/32 projects and code.
 - [ESPuino](https://github.com/biologist79/ESPuino) - RFID-controlled music player powered by ESP32.
 - [Knobby](https://github.com/quadule/knobby) - A handheld Spotify remote that encourages you to explore unfamiliar music.
 - [PedalinoMini](https://github.com/alf45tar/PedalinoMini) - A wireless MIDI pedal controller for guitarists, built with the ESP32.
+- [Samplotron](https://github.com/jakubthedeveloper/Samplotron) - A standalone hardware WAV sampler built on the ESP32, played with a MIDI controller or a built-in 16-key pad, with samples loaded from an SD card.
 - [Squeezelite-esp32](https://github.com/sle118/squeezelite-esp32) - Streaming audio receiver with multi-room sync, AirPlay, Bluetooth, hardware buttons, display and more.
 - [ThingPulse esp8266-spotify-remote](https://github.com/ThingPulse/esp8266-spotify-remote) - Control your Spotify player from a ESP8266 with color touch display.
 
